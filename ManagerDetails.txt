@@ -1,0 +1,5 @@
+Managers Bio data
+Roll.no - 1
+Name - Bala
+Age - 28
+Qualification - BCA
